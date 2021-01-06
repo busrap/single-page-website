@@ -1,0 +1,101 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\ApplicationInsights.config
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\csc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\vbc.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\VBCSCompiler.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\deneme.dll.config
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\deneme.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\deneme.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.Web.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.ApplicationInsights.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.Web.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.ApplicationInsights.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\obj\Debug\deneme.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\ApplicationInsights.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\csc.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\deneme.dll.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\deneme.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\deneme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\obj\Debug\deneme.dll
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\redLipstick\deneme\obj\Debug\deneme.pdb
+E:\Eski Calismalar\redLipstick\deneme\bin\ApplicationInsights.config
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\csc.exe
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\System.Collections.Immutable.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\System.Reflection.Metadata.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\vbc.exe
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\VBCSCompiler.exe
+E:\Eski Calismalar\redLipstick\deneme\bin\roslyn\VBCSCompiler.exe.config
+E:\Eski Calismalar\redLipstick\deneme\bin\deneme.dll.config
+E:\Eski Calismalar\redLipstick\deneme\bin\deneme.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\deneme.pdb
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.DependencyCollector.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.Web.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.WindowsServer.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.ApplicationInsights.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.DependencyCollector.xml
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.Web.xml
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.AI.WindowsServer.xml
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.ApplicationInsights.xml
+E:\Eski Calismalar\redLipstick\deneme\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Eski Calismalar\redLipstick\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+E:\Eski Calismalar\redLipstick\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+E:\Eski Calismalar\redLipstick\deneme\obj\Debug\deneme.csproj.CopyComplete
+E:\Eski Calismalar\redLipstick\deneme\obj\Debug\deneme.dll
+E:\Eski Calismalar\redLipstick\deneme\obj\Debug\deneme.pdb

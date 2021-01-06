@@ -1,0 +1,132 @@
+﻿body {
+    margin:0px;
+    padding:0px;
+}
+body,html{
+    height:100%;
+}
+
+.Red_Lipstick_1
+{
+        position:absolute;
+    font-size:65px;
+    z-index:2;
+       
+}
+.RedLipstick_2
+{
+ 
+      margin-left:20px;
+    color:red;
+     font-family: 'Gloria Hallelujah', cursive;
+     font:bold;
+     text-decoration:none;
+}
+.RedLipstick_2:hover
+{
+    
+
+    font-size:75px;
+ 
+
+    
+}
+.menular{
+    position:absolute;
+    height:100px;
+    width:100%;
+    text-align:center;
+    line-height:300px;
+    z-index:3;
+   
+}
+
+.menu{
+   
+    position:absolute;
+    color:black;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-decoration:none;
+    font-size:20px;
+    margin-left:60px;
+    z-index:4;
+}
+.menu:hover
+{
+    background-color:palevioletred;
+    font-size:large;
+    opacity:0.75;
+}
+.tasarimEkrani
+{
+    height:100%;
+    background-color:lightpink;
+    background-size:cover;
+    background-attachment:fixed;
+
+}
+.serit{
+    height:20%;
+    background-color:palevioletred;
+    opacity:0.30;
+}
+#t_1 {
+    /*ansayfa*/
+    background-image: url('Hayatta-Mutlu-Olmanın-Yolları-1.jpg');
+   
+}
+#t_2 {
+    /*moda*/
+    background-image: url('imagee.jpg');
+    opacity:0.40;
+}
+#t_3 {
+   /*güzellik*/
+    background-image: url('makyaj.jpg');
+     opacity:0.40;
+}
+#t_4 {
+    /*sağlık*/
+    background-image: url('sunset-successconcept.jpg');
+    opacity:0.40;
+}
+#t_5 {
+    /*eğlence*/
+    background-image: url('tr_tr_eglence.png');
+    opacity:0.40;
+  
+}
+#t_6 {
+    /*teknoloji*/
+    background-image: url('teknoloji_sanal_dijital_ortam.jpg');
+    opacity:0.40;
+}
+#t_7 {
+    /*astroloji*/
+    background-image: url('astroloji11.jpg');
+    opacity: 0.40;
+}
+
+.anasayfa
+{
+    position:absolute;
+    float:left;
+}
+
+.filtre{
+width:100%;
+height:100%;
+ font-family: 'Gloria Hallelujah', cursive;
+margin-top:180px;
+font-size:9px;
+color:GrayText;
+margin-left:25px;
+}
+.stil{
+width:100%;
+height:100%;
+background-color:black;
+opacity:0.37;
+z-index:1;
+
+}
